@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on ZeroOS.<br>🌱 Learning Django and React.<br>👨‍💻 Portfolio: https://krdeveloper.web.app<br>💬 Ask me about Django.<br>📫 Contact: doradharshini2003@gmail.com</p>
+<p align="left">🌱 Currently Learning Django.<br>👨‍💻 Portfolio: https://doradharshini.web.app<br>💬 Ask me about Django.<br>📫 Contact: doradharshini2003@gmail.com</p>
 
 ###
 
