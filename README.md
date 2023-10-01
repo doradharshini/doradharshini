@@ -22,9 +22,6 @@
   <a href="https://stackoverflow.com/doradharshini" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="https://kofi.com/doradharshini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="37" height="25" alt="ko-fi logo"  />
-  </a>
 </div>
 
 ###
