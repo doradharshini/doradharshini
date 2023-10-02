@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" title="javascript"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="java/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="java"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" title="python"/>
   <img width="12" />
