@@ -9,25 +9,26 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/doradharshini/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" title="linkedin"/>
-  </a>
+</a>
  
   <a href="https://www.hackerrank.com/doradharshini" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="37" height="25" title="hackerrank"/>
-  </a>
+</a>
  
   <a href="mailto:doradharshini2003@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" title="gmail"/>
-  </a>
+</a>
  
   <a href="https://codepen.com/doradharshini" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="37" height="25" title="codepen"/>
-  </a>
+</a>
  
   <a href="https://stackoverflow.com/doradharshini" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" title="stackoverflow"/>
   </a>
 </div>
 
+<br/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/doradharshini/count.svg?"/>
