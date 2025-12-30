@@ -10,7 +10,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/doradharshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/doradharshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <p align="center">
